@@ -18,6 +18,6 @@ It is a To Do List made with React and Bootstrap.
 
 ## Deploy
 
-Open: [https://listadotareasvb.netlify.app/](https://listadotareasvb.netlify.app/)
+Open: [To Do List](https://listadotareasvb.netlify.app/)
 
-_Last update: 02/05/2022._
+_Last update: 05/02/2022._
